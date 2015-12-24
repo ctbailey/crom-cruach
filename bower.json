@@ -1,0 +1,7 @@
+{
+  "name": "paper testing",
+  "version": "0.0.1",
+  "dependencies": {
+    "paper": "latest"
+  }
+}

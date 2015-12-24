@@ -1,0 +1,14 @@
+{
+  "name": "crom-cruach",
+  "description": "Building a visualization inspired by The Book Of Kells' depiction of Crom Cruach using paper.js",
+  "repository": "None",
+  "license": "MIT",
+  "version": "0.0.1",
+  "dependencies": {
+    "gulp": "^3.9.0",
+    "gulp-coffee": "latest",
+    "gulp-sass": "^2.0.4",
+    "gulp-util": "latest",
+    "wiredep": "latest"
+  }
+}
